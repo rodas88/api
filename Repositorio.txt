@@ -1,0 +1,5 @@
+https://github.com/rodas88/api.git
+
+Servidor: http://localhost:3000/
+
+Comando para arrancar el servidor: npm start
